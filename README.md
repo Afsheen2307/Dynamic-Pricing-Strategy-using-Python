@@ -3,7 +3,9 @@
 
 Dynamic Pricing is an application of data science that involves adjusting the prices of a product or service based on various factors in real time. It is used by companies to optimize revenue by setting flexible prices that respond to market demand, demographics, customer behaviour and competitor prices. So, if you want to learn how to build a data-driven Dynamic Pricing Strategy, this article is for you. In this article, I will take you through building a Dynamic Pricing Strategy using Python.
 
-What is Dynamic Pricing?
+##What is Dynamic Pricing?
+
+
 Dynamic Pricing is an application of Data Science that involves adjusting product or service prices based on various factors in real time. It is employed by businesses to optimize their revenue and profitability by setting flexible prices that respond to market demand, customer behaviour, and competitor pricing.
 
 Using data-driven insights and algorithms, businesses can dynamically modify prices to achieve the most favourable outcomes.
@@ -16,14 +18,19 @@ By implementing a dynamic pricing strategy, the company can leverage data scienc
 Using Machine Learning algorithms, the company can analyze data and adjust its prices in real-time. When demand is high, such as during rush hours or major events, the algorithm can increase the cost of the rides to incentivize more drivers to be available and balance the supply and demand. Conversely, during periods of low demand, the algorithm can lower the prices to attract more customers.
 
 Dynamic Pricing Strategy: Overview
+
+
+
 So, in a dynamic pricing strategy, the aim is to maximize revenue and profitability by pricing items at the right level that balances supply and demand dynamics. It allows businesses to adjust prices dynamically based on factors like time of day, day of the week, customer segments, inventory levels, seasonal fluctuations, competitor pricing, and market conditions.
 
 To implement a data-driven dynamic pricing strategy, businesses typically require data that can provide insights into customer behaviour, market trends, and other influencing factors. So to create a dynamic pricing strategy, we need to have a dataset based on:
+1. Historical sales data
+2. Customer purchase patterns
+3. Market demand forecasts
+4. Cost data
+5. Customer segmentation data
+6. Real time market data
 
-
-historical sales data
-customer purchase patterns
-market demand forecasts
-cost data
+   
 customer segmentation data, 
 and real-time market data.
