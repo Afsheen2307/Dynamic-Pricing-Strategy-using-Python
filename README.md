@@ -32,5 +32,3 @@ To implement a data-driven dynamic pricing strategy, businesses typically requir
 6. Real time market data
 
    
-customer segmentation data, 
-and real-time market data.
